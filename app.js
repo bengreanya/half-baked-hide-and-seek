@@ -63,6 +63,3 @@ function resetFaces() {
     treeContainer.classList.remove('face');
     boulderContainer.classList.remove('face');
 }
-// totalEl.textContent = totalGuesses;
-// winsEl.textContent = correctGuesses;
-// lossesEl.textContent = totalGuesses - correctGuesses;
